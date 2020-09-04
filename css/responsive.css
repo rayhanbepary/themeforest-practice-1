@@ -1,0 +1,80 @@
+@media (max-width: 991px ){
+    .header-wrapper {
+        background: #000000;
+    }
+    .header-content h1 {
+        font-size: 45px;
+    }
+    .top-gap {
+        margin-top: 0;
+    }
+    .section-padding {
+        padding: 60px 0;
+    }
+    .blog-item {
+        margin-bottom: 26px;
+    }
+    .skill-progress-bar.content-top-space {
+        margin-top: 10px;
+    }
+    .counter-box {
+        margin-bottom: 30px;
+    }
+    .bottom-gap{
+        margin-bottom: 0;
+    }
+    .main-menu .navbar-nav .nav-link {
+        padding: 10px 15px;
+    }
+    .hero{
+        height: 90%;
+    }
+}
+@media (max-width: 767px ){
+    .about-content h3 {
+        margin: 20px 0;
+    }
+    .content-top-space {
+        margin-top: 50px;
+    }
+    .portfolio-menu button {
+        margin-bottom: 15px;
+    }
+}
+@media (max-width: 576px ){
+    .header-content h1 {
+        font-size: 30px;
+    }
+    .button{
+        display: flex;
+        margin-top: -40px;
+    }
+    .button a{
+        margin: 30px auto auto;
+    }
+    .video-section .text h2 {
+        font-size: 23px;
+    }
+    .section-header h2 {
+        font-size: 25px;
+    }
+    .about-content h3 {
+        font-size: 20px;
+    }
+    .bottom-gap{
+        margin-bottom: 30px;
+    }
+    .bottom-gap-last{
+        margin-bottom: 0;
+    }
+    .footer ul {
+        text-align: center;
+    }
+    .footer ul li {
+        display: inline;
+        float: none;
+    }
+    .sm-align {
+        text-align: center !important;
+    }
+}

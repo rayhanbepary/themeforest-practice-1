@@ -1,6 +1,6 @@
 @media (max-width: 991px ){
     .header-wrapper {
-        background: #000000;
+        background: #0000009e;
     }
     .header-content h1 {
         font-size: 45px;
@@ -25,9 +25,6 @@
     }
     .main-menu .navbar-nav .nav-link {
         padding: 10px 15px;
-    }
-    .hero{
-        height: 90%;
     }
 }
 @media (max-width: 767px ){

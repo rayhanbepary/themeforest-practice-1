@@ -37,7 +37,7 @@ $(document).ready(function($) {
             control: '[data-mixitup-control]'
         }
     });
-    
+
     //lightbox
     $('.image-link').magnificPopup({type:'image'});
 
@@ -68,5 +68,7 @@ $(document).ready(function($) {
         dots:false,
         items:1
     })
-
 }(jQuery));
+
+//wow js
+new WOW().init(); 
